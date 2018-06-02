@@ -1,5 +1,5 @@
 node{
-    agent none
+    agent any
     stages{
         stage('compile'){
             steps{
